@@ -12,7 +12,7 @@
 }
 
 .jumbotron {
-  background-image:url('https://goo.gl/VqBROJ');
+  background-color: black;
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
